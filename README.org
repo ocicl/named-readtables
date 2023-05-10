@@ -1,0 +1,10 @@
+* named-readtables
+
+Named-Readtables is a library that provides a namespace for readtables
+akin to the already-existing namespace of packages.
+
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/melisgl/named-readtables.git |
+| commit  | a2cb9db                                             |
+| systems | named-readtables                                    |
+|---------+-----------------------------------------------------|
