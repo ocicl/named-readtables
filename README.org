@@ -1,10 +1,10 @@
-* named-readtables
+* documentation-utils
 
-Named-Readtables is a library that provides a namespace for readtables
-akin to the already-existing namespace of packages.
+This is a small library to help you with managing the docstrings for
+your library.
 
-|---------+-----------------------------------------------------|
-| source  | git:https://github.com/melisgl/named-readtables.git |
-| commit  | a2cb9db                                             |
-| systems | named-readtables                                    |
-|---------+-----------------------------------------------------|
+|---------+---------------------------------------------------------|
+| source  | git:https://github.com/Shinmera/documentation-utils.git |
+| commit  | 98630dd                                                 |
+| systems | documentation-utils                                     |
+|---------+---------------------------------------------------------|
