@@ -1,10 +1,9 @@
-* documentation-utils
+* named-readtables
 
-This is a small library to help you with managing the docstrings for
-your library.
+The official repo of named-readtables.
 
-|---------+---------------------------------------------------------|
-| source  | git:https://github.com/Shinmera/documentation-utils.git |
-| commit  | 98630dd                                                 |
-| systems | documentation-utils                                     |
-|---------+---------------------------------------------------------|
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/melisgl/named-readtables.git |
+| commit  | a2cb0db                                             |
+| systems | named-readtables                                    |
+|---------+-----------------------------------------------------|
