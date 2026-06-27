@@ -4,7 +4,7 @@ The official repo of named-readtables.
 
 |---------+-----------------------------------------------------|
 | source  | git:https://github.com/melisgl/named-readtables.git |
-| commit  | 07fde25                                             |
+| commit  | 4a96687                                             |
 | systems | named-readtables                                    |
 |---------+-----------------------------------------------------|
  
